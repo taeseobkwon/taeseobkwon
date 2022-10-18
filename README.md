@@ -1,4 +1,14 @@
-### Hi there 👋
+👋  **Hi**  👋
+---
+[Google](https://www.google.com/)
+---
+![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=300&section=header&text=★☆★☆★☆&fontSize=90)
+---
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=taeseobkwon)](https://github.com/taeseobkwon)
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeseobkwon&layout=compact)](https://github.com/taeseobkwon/github-readme-stats)
+
+
 
 <!--
 **taeseobkwon/taeseobkwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
